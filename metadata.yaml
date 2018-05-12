@@ -1,0 +1,30 @@
+_repo: The-Star-Lord_32208
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ellanby, Boyd
+    gutenberg_agent_id: '35725'
+    url: http://www.gutenberg.org/2009/agents/35725
+description: Biochemist William Boyd produced a number of influential and well-respected
+  short stories under the pen name ""Boyd Ellanby."" In the novella ""The Star Lord,
+  "" the state-of-the-art spacecraft of the same name is slated for a record-breaking
+  maiden voyage, but a dark cloud of apprehension and unease surrounds the launch.
+  Has humanity overstretched its bounds with this technological breakthrough?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32208'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Space flight -- Fiction'
+title: The Star Lord
+url: http://www.gutenberg.org/ebooks/32208
